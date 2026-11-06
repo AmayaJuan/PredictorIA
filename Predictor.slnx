@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Predictor.Entities/Predictor.Entities.csproj" />
+  <Project Path="Predictor.Repositories/Predictor.Repositories.csproj" />
+  <Project Path="Predictor.Services/Predictor.Services.csproj" />
+  <Project Path="Predictor.Tests/Predictor.Tests.csproj" />
+  <Project Path="Predictor.Web/Predictor.Web.csproj" />
+</Solution>
